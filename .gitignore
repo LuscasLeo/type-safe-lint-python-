@@ -1,0 +1,7 @@
+.coverage
+.venv
+.mypy_cache
+.pytest_cache
+cov.xml
+
+__pycache__
